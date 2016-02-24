@@ -19,3 +19,6 @@ Application for painting on white canvas by touching your screen
 6. Methods of UIResponder that look after all touches for processing them (touchesBegan, touchesMoved, touchesEnded) combine with CGContextRef, by means of taking every point of touches and paint through them.  
 7. Special methods of CGContextRef for setting attributes of brush (color, width, cap).  
 
+##Screenshots:
+![Alt text](http://clip2net.com/clip/m496854/7e6e6-clip-36kb.jpg "Optional title")
+![Alt text](http://clip2net.com/clip/m496854/082d3-clip-105kb.jpg "Optional title")
